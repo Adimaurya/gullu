@@ -1,3 +1,3 @@
 # gullu babu 1
-echo "%date%"
+echo "%date%"zvzs
 
