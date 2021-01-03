@@ -1,2 +1,3 @@
 # gullu babu 
+echo "%date%"
 
